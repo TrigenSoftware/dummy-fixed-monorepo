@@ -1,0 +1,10 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.0.0 (2026-07-06)
+
+### Features
+
+* dummy fixed monorepo packages to test simple-release flows ([558606f](https://github.com/TrigenSoftware/dummy-fixed-monorepo/commit/558606fd8a0cc0efdf53d0e55951844e0851a990))
